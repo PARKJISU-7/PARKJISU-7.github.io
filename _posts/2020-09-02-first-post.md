@@ -3,11 +3,7 @@ title: "블로그 포스팅 테스트01"
 date: 2020-09-02 18:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
- 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
- 
-Jekyll also offers powerful support for code snippets:
+"지인의 소개로 깃허브 블로그 만들어 보았습니다"
  
 ​```python
 def print_hi(name):
